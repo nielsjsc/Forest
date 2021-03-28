@@ -1,7 +1,7 @@
 FOREST:
 the Forest class is an object containing a vector
 of type "tree_ptr_t". It holds pointers to trees
-in a heap, so that it can find values in log(n) time.
+in a heap structure, so that it can find values in log(n) time.
 
 #Compare_trees# is a struct function used for comparing
 the values of the roots of trees stored in the forest's heap.
