@@ -21,7 +21,7 @@ is a heap.
 
 BUILDING:
 
-there is a makefile included in the repo. 
+There is a makefile included in the repo. 
 To build each test file, in terminal, type:
 '''
 make test_htree
