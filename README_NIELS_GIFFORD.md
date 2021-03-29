@@ -1,3 +1,18 @@
+Tree:
+Get_child, get_value, and get_key, all operate the as the names would imply.
+
+
+Path_to functions like a modified first half of the given path_to since there were
+problems with attempting to implement the last half. The recursive search on the right
+side is copied with names changed from the left side recursive searched.
+
+
+The path_to function builds the list from the "bottom up" as in it creates an empty list and then
+adds into it at the front as it returns back up the function.
+
+
+
+
 FOREST:
 the Forest class is an object containing a vector
 of type "tree_ptr_t". It holds pointers to trees
